@@ -1,10 +1,8 @@
 # syntar error 
-
 anount = 1000
 # forgetting a colon 
 # if amount>2999
 #     print("enough money")
-
 
 # exceptions errors 
 # marks = 400
